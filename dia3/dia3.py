@@ -1,6 +1,6 @@
-num = int(input("Digite seu número:"))
+numero = int(input("Digite um número:"))
 
-if num % 2 == 0:
-    print("Esse número é par")
+if numero % 2 == 0:
+    print("Esse número é Par")
 else:
-    print("Esse número é ímpar")
+    print("Esse número é Ímpar")
