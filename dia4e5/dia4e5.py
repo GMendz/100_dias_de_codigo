@@ -32,9 +32,9 @@ def calculadora():
       break
     else:
       print("Opção inválida.")
-      
+
     continuar = input("Deseja fazer outra operação? (s/n)")
-    if continuar == "n"
+    if continuar == "n":
       print("Calculadora encerrada")
       break
 
