@@ -5,3 +5,4 @@ if numero % 2 == 0:
 else: 
     print("Esse número é Ímpar")
     
+    
