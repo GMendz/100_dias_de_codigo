@@ -19,7 +19,7 @@ body[data-theme="light"] {
 body[data-theme="dark"] {
     --cor1: #1e1f26;
     --cor2: #292c33;
-    --cor3 rgb(39, 40, 42);
+    --cor3: rgb(39, 40, 42);
     --cor4: rgb(186, 186, 202);
 }
 
